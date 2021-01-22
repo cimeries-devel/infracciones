@@ -1,7 +1,7 @@
 ﻿
 namespace infracciones
 {
-    partial class Form1
+    partial class Infraccion
     {
         /// <summary>
         /// Variable del diseñador necesaria.

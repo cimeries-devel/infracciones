@@ -46,11 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="vistas\ActaControl.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="vistas\ActaControl.Designer.cs">
+      <DependentUpon>ActaControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vistas\Infraccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vistas\Infraccion.Designer.cs">
+      <DependentUpon>Infraccion.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -75,6 +81,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="controladores\" />
+    <Folder Include="modelos\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
