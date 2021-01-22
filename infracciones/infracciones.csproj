@@ -128,16 +128,13 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-<<<<<<< HEAD
     <EmbeddedResource Include="vistas\ActaControl.resx">
       <DependentUpon>ActaControl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="vistas\Infraccion.resx">
       <DependentUpon>Infraccion.cs</DependentUpon>
     </EmbeddedResource>
-=======
     <None Include="packages.config" />
->>>>>>> 08d0a6885952b2ea48e2108336bf3330eebf7f76
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -151,7 +148,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-<<<<<<< HEAD
   <ItemGroup>
     <Folder Include="controladores\" />
     <Folder Include="modelos\" />
@@ -159,9 +155,7 @@
   <ItemGroup>
     <None Include="Resources\logo.png" />
   </ItemGroup>
-=======
   <ItemGroup />
->>>>>>> 08d0a6885952b2ea48e2108336bf3330eebf7f76
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

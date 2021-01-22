@@ -29,7 +29,6 @@ H:\Proyectos\infracciones\infracciones\bin\Debug\EntityFramework.xml
 H:\Proyectos\infracciones\infracciones\bin\Debug\EntityFramework.SqlServer.xml
 H:\Proyectos\infracciones\infracciones\bin\Debug\System.Data.SQLite.xml
 H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.csproj.CopyComplete
-<<<<<<< HEAD
 H:\Proyectos\infracciones\infracciones\bin\Debug\RestSharp.dll
 H:\Proyectos\infracciones\infracciones\bin\Debug\RestSharp.xml
 H:\Proyectos\infracciones\infracciones\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
@@ -50,6 +49,7 @@ H:\Proyectos\infracciones\infracciones\bin\Debug\System.Text.Encodings.Web.xml
 H:\Proyectos\infracciones\infracciones\bin\Debug\System.Text.Json.xml
 H:\Proyectos\infracciones\infracciones\bin\Debug\System.Threading.Tasks.Extensions.xml
 H:\Proyectos\infracciones\infracciones\bin\Debug\System.ValueTuple.xml
-=======
 >>>>>>> 08d0a6885952b2ea48e2108336bf3330eebf7f76
 >>>>>>> bbfa962ab81f7cba5f6f429f701992501356ea50
+H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.vistas.ActaControl.resources
+H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.Infraccion.resources
