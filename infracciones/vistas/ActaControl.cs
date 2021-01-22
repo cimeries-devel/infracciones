@@ -41,5 +41,10 @@ namespace infracciones.vistas
         {
 
         }
+
+        private void btn_guardar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
