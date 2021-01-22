@@ -7,3 +7,21 @@ C:\Users\walter\Documents\Visual Studio 2019\infracciones\infracciones\obj\Debug
 C:\Users\walter\Documents\Visual Studio 2019\infracciones\infracciones\obj\Debug\infracciones.csproj.CoreCompileInputs.cache
 C:\Users\walter\Documents\Visual Studio 2019\infracciones\infracciones\obj\Debug\infracciones.exe
 C:\Users\walter\Documents\Visual Studio 2019\infracciones\infracciones\obj\Debug\infracciones.pdb
+H:\Proyectos\infracciones\infracciones\bin\Debug\infracciones.exe.config
+H:\Proyectos\infracciones\infracciones\bin\Debug\infracciones.exe
+H:\Proyectos\infracciones\infracciones\bin\Debug\infracciones.pdb
+H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.csprojAssemblyReference.cache
+H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.Properties.Resources.resources
+H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.csproj.GenerateResource.cache
+H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.csproj.CoreCompileInputs.cache
+H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.exe
+H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.pdb
+H:\Proyectos\infracciones\infracciones\bin\Debug\EntityFramework.dll
+H:\Proyectos\infracciones\infracciones\bin\Debug\EntityFramework.SqlServer.dll
+H:\Proyectos\infracciones\infracciones\bin\Debug\System.Data.SQLite.dll
+H:\Proyectos\infracciones\infracciones\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Proyectos\infracciones\infracciones\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Proyectos\infracciones\infracciones\bin\Debug\EntityFramework.xml
+H:\Proyectos\infracciones\infracciones\bin\Debug\EntityFramework.SqlServer.xml
+H:\Proyectos\infracciones\infracciones\bin\Debug\System.Data.SQLite.xml
+H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.csproj.CopyComplete
