@@ -16,5 +16,30 @@ namespace infracciones.vistas
 		{
 			InitializeComponent();
 		}
-	}
+
+        private void lblCalificacionInfraccion_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblDestinoViaje_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox16_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox23_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

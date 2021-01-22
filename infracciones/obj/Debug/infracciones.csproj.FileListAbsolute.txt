@@ -7,3 +7,5 @@ C:\Users\walter\Documents\Visual Studio 2019\infracciones\infracciones\obj\Debug
 C:\Users\walter\Documents\Visual Studio 2019\infracciones\infracciones\obj\Debug\infracciones.csproj.CoreCompileInputs.cache
 C:\Users\walter\Documents\Visual Studio 2019\infracciones\infracciones\obj\Debug\infracciones.exe
 C:\Users\walter\Documents\Visual Studio 2019\infracciones\infracciones\obj\Debug\infracciones.pdb
+C:\Users\walter\Documents\Visual Studio 2019\infracciones\infracciones\obj\Debug\infracciones.vistas.ActaControl.resources
+C:\Users\walter\Documents\Visual Studio 2019\infracciones\infracciones\obj\Debug\infracciones.Infraccion.resources
