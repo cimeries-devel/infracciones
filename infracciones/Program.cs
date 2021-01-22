@@ -13,11 +13,6 @@ namespace infracciones
         [STAThread]
         static void Main()
         {
-            TipoInfraccion obj = CTipoInfraccion.GetTipoInfraccion("C01");
-            obj.infraccion = "infraccion modificada";
-            obj.guardar();
-            System.Windows.Forms.MessageBox.Show(obj.infraccion);
-
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Infraccion());
