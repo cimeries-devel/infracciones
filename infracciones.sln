@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infracciones", "infracciones\infracciones.csproj", "{EB3AB5A0-753A-4909-9260-42B917840E74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3AB5A0-753A-4909-9260-42B917840E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3AB5A0-753A-4909-9260-42B917840E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3AB5A0-753A-4909-9260-42B917840E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3AB5A0-753A-4909-9260-42B917840E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B0D2AD-A03B-4F11-9F58-635E9A3876C9}
+	EndGlobalSection
+EndGlobal
