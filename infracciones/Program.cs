@@ -13,9 +13,12 @@ namespace infracciones
         [STAThread]
         static void Main()
         {
+            Dni dni = ClientAPI.GetDni("73299966");
+            System.Windows.Forms.MessageBox.Show(dni.nombre_completo);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Infraccion());
+
         }
     }
 }

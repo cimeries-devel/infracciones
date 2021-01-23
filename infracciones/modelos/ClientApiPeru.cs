@@ -16,9 +16,11 @@ namespace infracciones.modelos
                 var request = new RestRequest(Method.GET);
                 request.AddHeader("Authorization", "Bearer 55d321167120327342d266d9f48a453fef009aff4c30e411548069ca672737e5");
                 IRestResponse response = client.Execute(request);
-                System.Windows.Forms.MessageBox.Show(response.Content);
-                DniHeader header = JsonSerializer.Deserialize<DniHeader>(response.Content);
-                System.Windows.Forms.MessageBox.Show(header.data.nombre_completo);
+                if (response.IsSuccessful)
+                {
+                    DniHeader header = JsonSerializer.Deserialize<DniHeader>(response.Content);
+                    return header.data;
+                }
                 return null;
             }
         }

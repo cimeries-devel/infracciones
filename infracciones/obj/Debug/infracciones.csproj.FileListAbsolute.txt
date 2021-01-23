@@ -37,3 +37,4 @@ H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.csproj.CoreCompile
 H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.csproj.CopyComplete
 H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.exe
 H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.pdb
+H:\Proyectos\infracciones\infracciones\obj\Debug\infracciones.csprojAssemblyReference.cache
