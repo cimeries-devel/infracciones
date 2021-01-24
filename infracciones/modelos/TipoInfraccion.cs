@@ -27,7 +27,7 @@ namespace infracciones.modelos
                 }
                 if (esNuevo)
                 {
-                    consulta = new SQLiteCommand("INSERT INTO TipoInfraccion VALUES(NULL, @codigo, @infraccion, @calificacion, @sancion)", conexion);
+                    consulta = new SQLiteCommand("INSERT INTO tipo_infraccion_tbl VALUES(NULL, @codigo, @infraccion, @calificacion, @sancion)", conexion);
                 } else
                 {
                     consulta = new SQLiteCommand("UPDATE TipoInfraccion SET codigo=@codigo, infraccion=@infraccion, calificacion=@calificacion, sancion=@sancion WHERE id=@id", conexion);
